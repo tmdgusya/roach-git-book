@@ -1,3 +1,3 @@
 # Table of contents
 
-* [REAME](README.md)
+* [READ ME](README.md)
